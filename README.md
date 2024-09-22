@@ -1,0 +1,1 @@
+A collection of Python programming exercises for beginners to practice key concepts like User Input, How to Create a functions, and  List Comprehension and Generator Expression. Clone the repo, solve problems, and enhance your Python skills! Contributions are welcome.
